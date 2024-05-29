@@ -1,0 +1,1353 @@
+[
+    {
+        "id": 1,
+        "name": "3d Dragon Bracelet",
+        "price": 357800,
+        
+        "image": "https://i.ibb.co/r5JpS3P/Remove-background-project.png",
+        "description": "3d Dragon Bracelet for Mens with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "name": "Antiq Bracelet",
+        "price": 496000,
+        
+        "image": "https://i.ibb.co/kGR1M6n/Remove-background-project.png",
+        "description": "Antiq Bracelet with 92.50 Purity | Gross Weight is 24.800 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": false
+    },
+    {
+        "id": 3,
+        "name": "Black Polish Bracelet",
+        "price": 722000,
+        
+        "image": "https://i.ibb.co/CKQ4K6w/Remove-background-project.png",
+        "description": "Black Polish Bracelet with 92.50 Purity | Gross Weight is 36.100 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": false
+    },
+    {
+        "id": 4,
+        "name": "Dragon Bracelet",
+        "price": 524000,
+        
+        "image": "https://i.ibb.co/cxWJSby/Remove-background-project.png",
+        "description": "Dragon Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": false
+    },
+    {
+        "id": 5,
+        "name": "Heavy Dragon Bracelet",
+        "price": 716000,
+        
+        "image": "https://i.ibb.co/zhrCHjy/Remove-background-project.png",
+        "description": "Heavy Dragon Bracelet with 92.50 Purity | Gross Weight is 35.800 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": false
+    },
+    {
+        "id": 6,
+        "name": "Dragon Face Bracelet",
+        "price": 524000,
+        
+        "image": "https://i.ibb.co/G5GvQkf/Remove-background-project.png",
+        "description": "Dragon Face Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": false
+    },
+    {
+        "id": 7,
+        "name": "Turtle Bracelet",
+        "price": 230040,
+        
+        "image": "https://i.ibb.co/7JBQNnR/Remove-background-project.png",
+        "description": "Turtle Bracelet with 92.50 Purity | Gross Weight is 12.780 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": false
+    },
+    {
+        "id": 8,
+        "name": "Dragon Bracelet",
+        "price": 310700,
+        
+        "image": "https://i.ibb.co/qjB1cjL/Remove-background-project.png",
+        "description": "Dragon Bracelet with 92.50 Purity | Gross Weight is 23.900 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true
+    },
+    {
+        "id": 9,
+        "name": "White Polish Bracelet",
+        "price": 117000,
+        
+        "image": "https://i.ibb.co/FW0sNtz/Remove-background-project.png",
+        "description": "White Polish Bracelet for Mens with 92.50 Purity | Gross Weight is 5.850 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": false
+    },
+    {
+        "id": 10,
+        "name": "Chain",
+        "price": 403750,
+        
+        "image": "https://i.ibb.co/HdbhPwL/Remove-background-project.png",
+        "description": "Chain with 92.50 Purity | Gross Weight is 16.150 gm | 130Rs. per gram.",
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": false
+    },
+    {
+        "id": 11,
+        "name": "Chain1",
+        "price": 292500,
+        
+        "image": "https://i.ibb.co/ncrfyPk/Remove-background-project.png",
+        "description": "Chian2 with 92.50 Purity | Gross Weight is 11.700 gm | 130Rs. per gram.",
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": false
+    },
+    {
+        "id": 12,
+        "name": "Chain2",
+        "price": 382500,
+        
+        "image": "https://i.ibb.co/C5zvKKn/Remove-background-project.png",
+        "description": "Chain3 with 92.50 Purity | Gross Weight is 15.300 gm | 130Rs. per gram.",
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true
+    },
+    {
+        "id": 13,
+        "name": "Chain3",
+        "price": 3218750,
+        
+        "image": "https://i.ibb.co/rGDcQqs/Remove-background-project.png",
+        "description": "Chain4 with 92.50 Purity | Gross Weight is 128.750 gm | 130Rs. per gram.",
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true
+    },
+    {
+        "id": 14,
+        "name": "ButterFly Bracelet",
+        "price": 232500,
+        
+        "image": "https://i.ibb.co/KyxPVq5/Remove-background-project.png",
+        "description": "ButterFly Bracelet with 92.50 Purity | Gross Weight is 9.300 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": true
+    },
+    {
+        "id": 15,
+        "name": "Flower Bracelet",
+        "price": 224000,
+        
+        "image": "https://i.ibb.co/mDtGk3K/Remove-background-project.png",
+        "description": "Flower Bracelet with 92.50 Purity | Gross Weight is 11.200 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": true
+    }
+    ,
+    {
+        "id": 16,
+        "name": "Turtle Bracelet",
+        "price": 175500,
+        
+        "image": "https://i.ibb.co/YkdwTrf/Remove-background-project.png",
+        "description": "Turtle Bracelet with 92.50 Purity | Gross Weight is 9.750 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": false
+    }
+    ,
+    {
+        "id": 17,
+        "name": " Designer Balls Plain Payal",
+        "price": 337500,
+        
+        "image": "https://i.ibb.co/kgT9WRn/Remove-background-project.png",
+        "description": "Plain with Designer Balls Fancy Payal with 92.50 Purity | Gross Weight is 22.500 gm | 150Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": true
+    }
+    ,
+    {
+        "id": 18,
+        "name": "plain Chain Payal",
+        "price": 392700,
+        
+        "image": "https://i.ibb.co/9thR85m/Remove-background-project.png",
+        "description": "plain Chain Fancy Payal with 92.50 Purity | Gross Weight is 23.100 gm | 170Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 19,
+        "name": "Kairy Design Payal",
+        "price": 1482600,
+        
+        "image": "https://i.ibb.co/TtsZyQS/Remove-background-project.png",
+        "description": "Kairy Design Payal with Black Polish with 92.50 Purity | Gross Weight is 141.200 gm | 105Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": true
+    }
+    ,
+    {
+        "id": 20,
+        "name": "Bindi Design Payal",
+        "price": 161175000,
+        
+        "image": "https://i.ibb.co/yk2zhfc/Remove-background-project-3.png",
+        "description": "Bindi Design Payal with 92.50 Purity | Gross Weight is 153.500 gm | 105Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": true
+    }
+    ,
+    {
+        "id": 21,
+        "name": "Kairy Design Payal",
+        "price": 1441650,
+        
+        "image": "https://i.ibb.co/58SNKw7/Remove-background-project-4.png",
+        "description": "Kairy Design Payal with 92.50 Purity | Gross Weight is 137.300 gm | 105Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": true
+    }
+    ,
+    {
+        "id": 22,
+        "name": "Drop Balls Payal",
+        "price": 2370900,
+        
+        "image": "https://i.ibb.co/3sKK7MS/Remove-background-project.png",
+        "description": "Drop Balls Payal with 92.50 Purity | Gross Weight is 225.800 gm | 105Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 23,
+        "name": "Drop Balls Bindi Payal",
+        "price": 1663200,
+        
+        "image": "https://i.ibb.co/dfLvXqK/Remove-background-project.png",
+        "description": "Binidi Payal with Drop Balls with 92.50 Purity | Gross Weight is 158.400 gm | 105Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": true
+    }
+    ,
+    {
+        "id": 24,
+        "name": "Leaf Design Payal",
+        "price": 1500000,
+        
+        "image": "https://i.ibb.co/7JKYr7F/Remove-background-project.png",
+        "description": "Leaf Design Payal with Red, Green and White Stone with 92.50 Purity | Gross Weight is 150.000 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 25,
+        "name": "Mini Drops Heavy Payal",
+        "price": 2260000,
+        
+        "image": "https://i.ibb.co/L65X8Hs/Remove-background-project.png",
+        "description": "Heavy Payal with Mini Drops with 92.50 Purity | Gross Weight is 226.000 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 26,
+        "name": "Dropping Balls Payal",
+        "price": 1296000,
+        
+        "image": "https://i.ibb.co/9NS54Dq/Remove-background-project.png",
+        "description": "Dropping Balls Payal with Green and White Stone with 92.50 Purity | Gross Weight is 129.600 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 27,
+        "name": "Dropping Kairy Payal",
+        "price": 814000,
+        
+        "image": "https://i.ibb.co/fMhcqKQ/Remove-background-project.png",
+        "description": "Dropping Kairy Payal with Red, Green and White Stone with 92.50 Purity | Gross Weight is 81.400 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 28,
+        "name": "Ghungroo Dropping Heavy Payal",
+        "price": 1562000,
+        
+        "image": "https://i.ibb.co/9syP9g2/Remove-background-project.png",
+        "description": "Heavy Payal with Ghungroo Dropping with 92.50 Purity | Gross Weight is 156.200 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 29,
+        "name": "Bichiya Attached Payal",
+        "price": 1367000,
+        
+        "image": "https://i.ibb.co/VTjb696/Remove-background-project.png",
+        "description": "Bichiya Attached Payal with 92.50 Purity | Gross Weight is 136.700 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": true
+    }
+    ,
+    {
+        "id": 30,
+        "name": "Kairy Design Payal",
+        "price": 1362000,
+        
+        "image": "https://i.ibb.co/6yB3Q3s/Remove-background-project.png",
+        "description": "Kairy Design Payal with 92.50 Purity | Gross Weight is 136.200 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 31,
+        "name": "Plain Kairy Designer Payal",
+        "price": 1373000,
+        
+        "image": "https://i.ibb.co/nq2MsKy/Remove-background-project.png",
+        "description": "Designer Payal with Plain Kairy with 92.50 Purity | Gross Weight is 137.300 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id":32,
+        "name": "Heavy Stone Payal",
+        "price": 2080000,
+        
+        "image": "https://i.ibb.co/df9kZjC/Remove-background-project.png",
+        "description": "Heavy Stone Payal with 92.50 Purity | Gross Weight is 208.000 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 33,
+        "name": "Dropping Balls Designer Payal",
+        "price": 2351000,
+        
+        "image": "https://i.ibb.co/0KL5DkZ/Remove-background-project.png",
+        "description": "Designer Payal with Big and Small Dropping Balls with 92.50 Purity | Gross Weight is 235.100 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 34,
+        "name": "Designer Payal",
+        "price": 812000,
+        
+        "image": "https://i.ibb.co/Sy8dxXV/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 81.200 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 35,
+        "name": "Designer Stone Payal",
+        "price": 918000,
+        
+        "image": "https://i.ibb.co/DbJkv3v/Remove-background-project.png",
+        "description": "Designer Payal with Red and Green Stones with 92.50 Purity | Gross Weight is 91.800 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 36,
+        "name": "Stone Payal",
+        "price": 967000,
+        
+        "image": "https://i.ibb.co/YPjffRm/Remove-background-project.png",
+        "description": "Colored Stones Payal with 92.50 Purity | Gross Weight is 96.700 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 37,
+        "name": "Stone Payal",
+        "price": 740000,
+        
+        "image": "https://i.ibb.co/9tTzDgJ/Remove-background-project.png",
+        "description": "Colored Stones Payal with 92.50 Purity | Gross Weight is 74.000 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 38,
+        "name": "Kairy Design Payal",
+        "price": 743800,
+        
+        "image": "https://i.ibb.co/0fRdKcb/Remove-background-project.png",
+        "description": "Kairy Design Payal with 92.50 Purity | Gross Weight is 74.380 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 39,
+        "name": "Stone Payal",
+        "price": 568300,
+        
+        "image": "https://i.ibb.co/G93rVB1/Remove-background-project.png",
+        "description": "Colored Stones Payal with 92.50 Purity | Gross Weight is 56.830 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 40,
+        "name": "Designer Payal",
+        "price": 757100,
+        
+        "image": "https://i.ibb.co/X7Zhv86/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 75.710 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 41,
+        "name": "Stone Payal",
+        "price": 570000,
+        
+        "image": "https://i.ibb.co/6BChrdy/Remove-background-project.png",
+        "description": "Colored Stones Payal with 92.50 Purity | Gross Weight is 57.000 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 42,
+        "name": "Heart Shaped Designer Payal",
+        "price": 604000,
+        
+        "image": "https://i.ibb.co/PDv4cvK/Remove-background-project.png",
+        "description": "Heart Shaped Designer Payal with 92.50 Purity | Gross Weight is 60.400 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 43,
+        "name": "White Stone Payal",
+        "price": 478000,
+        
+        "image": "https://i.ibb.co/kgvc2tz/Remove-background-project.png",
+        "description": "White Stone Payal with 92.50 Purity | Gross Weight is 47.800 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 44,
+        "name": "Leaf Design Payal",
+        "price": 758500,
+        
+        "image": "https://i.ibb.co/Dt148Rf/Remove-background-project.png",
+        "description": "Leaf Design Payal with 92.50 Purity | Gross Weight is 75.850 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 45,
+        "name": "Designer Payal",
+        "price": 796000,
+        
+        "image": "https://i.ibb.co/q786B8j/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 79.600 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 46,
+        "name": "Colored Stone Payal",
+        "price": 421500,
+        
+        "image": "https://i.ibb.co/G3kxHMn/Remove-background-project.png",
+        "description": "Colored Stone with Italian Chain Payal with 92.50 Purity | Gross Weight is 42.150 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 47,
+        "name": "Designer Payal",
+        "price": 624500,
+        
+        "image": "https://i.ibb.co/54hCRfc/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 62.450 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 48,
+        "name": "Designer Payal",
+        "price": 754500,
+        
+        "image": "https://i.ibb.co/ZY9HJyr/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 75.450 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 49,
+        "name": "Stone Payal",
+        "price": 460000,
+        
+        "image": "https://i.ibb.co/rtm6WZb/Remove-background-project.png",
+        "description": "Colored Stones Payal with 92.50 Purity | Gross Weight is 46.000 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 50,
+        "name": "White Stone Payal",
+        "price": 517400,
+        
+        "image": "https://i.ibb.co/QnLZKQy/Remove-background-project.png",
+        "description": "White Stone Payal with 92.50 Purity | Gross Weight is 51.740 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 51,
+        "name": "White Stone Payal",
+        "price": 551000,
+        
+        "image": "https://i.ibb.co/DRVYSss/Remove-background-project.png",
+        "description": "White Stone Payal with Different Design with 92.50 Purity | Gross Weight is 55.100 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 52,
+        "name": "Dropping Birds Designer Payal",
+        "price": 2351000,
+        
+        "image": "https://i.ibb.co/cT3JnwF/Remove-background-project.png",
+        "description": "Designer Payal with Dropping Birds with 92.50 Purity | Gross Weight is 235.100 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 53,
+        "name": "Kairy Design Payal",
+        "price": 584000,
+        
+        "image": "https://i.ibb.co/8cmkhSS/Remove-background-project.png",
+        "description": "Kairy Design Payal with 92.50 Purity | Gross Weight is 58.400 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 54,
+        "name": "Designer Payal",
+        "price": 918500,
+        
+        "image": "https://i.ibb.co/PGW0w7q/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 91.850 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 55,
+        "name": "Dropping Balls Designer Payal",
+        "price": 643500,
+        
+        "image": "https://i.ibb.co/Prf3k75/Remove-background-project.png",
+        "description": "Designer Payal with Dropping Green Balls and 92.50 Purity | Gross Weight is 64.350 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 56,
+        "name": "Designer Payal",
+        "price": 652000,
+        
+        "image": "https://i.ibb.co/JtwtkmX/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 65.200 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": true
+    }
+    ,
+    {
+        "id": 57,
+        "name": "Dropping Birds Designer Payal",
+        "price": 721000,
+        
+        "image": "https://i.ibb.co/0tB0NkX/Remove-background-project.png",
+        "description": "Designer Payal with Dropping Birds and 92.50 Purity | Gross Weight is 72.100 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 58,
+        "name": "Plain Kairy Designer Payal",
+        "price": 742000,
+        
+        "image": "https://i.ibb.co/FqNR9Yv/Remove-background-project.png",
+        "description": "Plain Kairy Designer Payal with 92.50 Purity | Gross Weight is 74.200 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 59,
+        "name": "Designer Payal",
+        "price": 505000,
+        
+        "image": "https://i.ibb.co/5Y9QBXX/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 50.500 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 60,
+        "name": "Designer Payal",
+        "price": 613500,
+        
+        "image": "https://i.ibb.co/4ZrhNgF/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 61.350 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 61,
+        "name": "Designer Payal",
+        "price": 587000,
+        
+        "image": "https://i.ibb.co/G3qGfXR/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 58.700 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 62,
+        "name": "Designer Payal",
+        "price": 655500,
+        
+        "image": "https://i.ibb.co/Lt8B3FJ/Remove-background-project.png",
+        "description": "Designer Payal with 92.50 Purity | Gross Weight is 65.550 gm | 100Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "Payal",
+        "featured": false
+    }
+    ,
+    {
+        "id": 63,
+        "name": "Italian Chain",
+        "price": 134750,
+        
+        "image": "https://i.ibb.co/mJxBy03/Remove-background-project-5.png",
+        "description": "Italian Chain with Rodium Polish and 92.50 Purity | Gross Weight is 3.850 gm | 350Rs. per gram.",
+        "category": "ItalianChain",
+        "genCategory": "Female",
+        "femaleCategory": "Chain",
+        "italian": "",
+        "featured": true
+    }
+    ,
+    {
+        "id": 64,
+        "name": "Italian Chain",
+        "price": 168000,
+        
+        "image": "https://i.ibb.co/T8KbqCC/Remove-background-project-6.png",
+        "description": "Italian Chain with Rodium Polish and 92.50 Purity | Gross Weight is 4.800 gm | 350Rs. per gram.",
+        "category": "ItalianChain",
+        "genCategory": "Female",
+        "femaleCategory": "Chain",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 65,
+        "name": "Italian Chain",
+        "price": 127750,
+        
+        "image": "https://i.ibb.co/60KKz1f/Remove-background-project.png",
+        "description": "Italian Chain with Rodium Polish and 92.50 Purity | Gross Weight is 3.650 gm | 350Rs. per gram.",
+        "category": "ItalianChain",
+        "genCategory": "Female",
+        "femaleCategory": "Chain",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 66,
+        "name": "Italian Chain",
+        "price": 112000,
+        
+        "image": "https://i.ibb.co/jRvCGGH/img3.png",
+        "description": "Italian Chain with Gold and Silver Rodium Polish and 92.50 Purity | Gross Weight is 3.200 gm | 350Rs. per gram.",
+        "category": "ItalianChain",
+        "genCategory": "Female",
+        "femaleCategory": "Chain",
+        "italian": "FeaturedItalian",
+        "featured": true
+    }
+    ,
+    {
+        "id": 67,
+        "name": "Italian Chain",
+        "price": 162750,
+        
+        "image": "https://i.ibb.co/bQNR5WL/Remove-background-project-4.png",
+        "description": "Italian Chain with Gold and Silver Rodium Polish and 92.50 Purity | Gross Weight is 4.650 gm | 350Rs. per gram.",
+        "category": "ItalianChain",
+        "genCategory": "Female",
+        "femaleCategory": "Chain",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 68,
+        "name": "Black Rodium Italian Payal",
+        "price": 581250,
+        
+        "image": "https://i.ibb.co/16zbg4X/Remove-background-project.png",
+        "description": "Black Rodium Italian Payal with 92.50 Purity | Gross Weight is 23.250 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 69,
+        "name": "Ball Chain Italian Payal",
+        "price": 474000,
+        
+        "image": "https://i.ibb.co/xM8Q66p/Remove-background-project-5.png",
+        "description": "Ball Chain Italian Payal with Black Rodium and 92.50 Purity | Gross Weight is 23.700 gm | 200Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 70,
+        "name": "Bracelet Cum Payal",
+        "price": 322500,
+        
+        "image": "https://i.ibb.co/89nGCrs/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 12.900 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 71,
+        "name": "Bracelet Cum Payal",
+        "price": 342500,
+        
+        "image": "https://i.ibb.co/SXr7CFn/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 13.700 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 72,
+        "name": "Bracelet Cum Payal",
+        "price": 541250,
+        
+        "image": "https://i.ibb.co/P1PyV4w/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 21.650 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "FeaturedItalian",
+        "featured": true
+    }
+    ,
+    {
+        "id": 73,
+        "name": "Italian Payal",
+        "price": 111000,
+        
+        "image": "https://i.ibb.co/FbnRrN4/Remove-background-project.png",
+        "description": "Italian Payal with Rodium Polish and 92.50 Purity | Gross Weight is 3.700 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 74,
+        "name": "Italian Payal",
+        "price": 332500,
+        
+        "image": "https://i.ibb.co/JKBbK83/Remove-background-project.png",
+        "description": "Italian Payal with Black and Rodium Polish and 92.50 Purity | Gross Weight is 13.300 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 75,
+        "name": "Italian Payal",
+        "price": 563400,
+        
+        "image": "https://i.ibb.co/thqr0Fj/Remove-background-project.png",
+        "description": "Italian Payal with Italian Polish and 92.50 Purity | Gross Weight is 18.780 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 76,
+        "name": "Moving Balls Italian Payal",
+        "price": 384000,
+        
+        "image": "https://i.ibb.co/7yQ3xMY/Remove-background-project-4.png",
+        "description": "Moving Balls Italian Payal with Italian Polish and 92.50 Purity | Gross Weight is 12.800 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 77,
+        "name": "Moving Balls And Star Payal",
+        "price": 474000,
+        
+        "image": "https://i.ibb.co/BqWStKW/Remove-background-project-5.png",
+        "description": "Moving Balls and Star Italian Payal with Italian Polish and 92.50 Purity | Gross Weight is 15.800 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 78,
+        "name": "White Rodium Silver Italian Payal",
+        "price": 363750,
+        
+        "image": "https://i.ibb.co/MDdSJ7B/Remove-background-project.png",
+        "description": "White Rodium Silver Italian Payal with 92.50 Purity | Gross Weight is 14.550 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 79,
+        "name": "Bronze Italian Payal",
+        "price": 118500,
+        
+        "image": "https://i.ibb.co/0jxjQFD/Remove-background-project-4.png",
+        "description": "Bronze Italian Payal with Rodium Polish and 92.50 Purity | Gross Weight is 3.950 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 80,
+        "name": "Bronze Italian Payal",
+        "price": 112500,
+        
+        "image": "https://i.ibb.co/f1tYLKZ/Remove-background-project.png",
+        "description": "Bronze Italian Payal with Rodium Polish and 92.50 Purity | Gross Weight is 3.750 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 81,
+        "name": "Moving Balls Italian Payal",
+        "price": 585200,
+        
+        "image": "https://i.ibb.co/T2pKZBh/Remove-background-project.png",
+        "description": "Moving Balls Italian Payal with Italian Polish and 92.50 Purity | Gross Weight is 20.900 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 82,
+        "name": "Multiple Chain Italian Payal",
+        "price": 453600,
+        
+        "image": "https://i.ibb.co/2WPvyq7/Remove-background-project.png",
+        "description": "Multiple Chain Italian Payal with Moving Balls and Italian Polish and 92.50 Purity | Gross Weight is 16.200 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 83,
+        "name": "Double Chain Italian Payal",
+        "price": 450800,
+        
+        "image": "https://i.ibb.co/GxP0sHQ/Remove-background-project.png",
+        "description": "Multiple Chain Italian Payal with Oval Shaped Ball and 92.50 Purity | Gross Weight is 16.100 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 84,
+        "name": "Heart Shaped Italian Payal",
+        "price": 414400,
+        
+        "image": "https://i.ibb.co/FWPW5dh/Remove-background-project.png",
+        "description": "Heart Shaped Corner Italian Payal with Italian Polish and 92.50 Purity | Gross Weight is 14.800 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": true
+    }
+    ,
+    {
+        "id": 85,
+        "name": "Pink Bits Italian Payal",
+        "price": 462000,
+        
+        "image": "https://i.ibb.co/BCs1Q4x/Remove-background-project.png",
+        "description": "Italian Payal with Pink Bits and 92.50 Purity | Gross Weight is 16.500 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 86,
+        "name": "Dolphin Design Italian Payal",
+        "price": 679500,
+        
+        "image": "https://i.ibb.co/R07dnkd/Remove-background-project.png",
+        "description": "Dolphin Design Italian Payal with Silver Rodium Polish and 92.50 Purity | Gross Weight is 22.650 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": true
+    }
+    ,
+    {
+        "id": 87,
+        "name": "Black Poot Italian Payal",
+        "price": 411600,
+        
+        "image": "https://i.ibb.co/Lt58gJq/Remove-background-project.png",
+        "description": "Black Poot Italian Payal with Silver Balls and 92.50 Purity | Gross Weight is 14.700 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 88,
+        "name": "Star Design Italian Payal",
+        "price": 516600,
+        
+        "image": "https://i.ibb.co/6s6N1Sj/Remove-background-project-4.png",
+        "description": "Star Design Italian Payal with Silver Rodium Polish and 92.50 Purity | Gross Weight is 18.450 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 89,
+        "name": "Elephant Design Italian Payal",
+        "price": 847000,
+        
+        "image": "https://i.ibb.co/g6jWjFc/Remove-background-project-5.png",
+        "description": "Italian Payal with Elephant Design on Stone and Italian Polish and 92.50 Purity | Gross Weight is 30.250 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "FeaturedItalian",
+        "featured": true
+    }
+    ,
+    {
+        "id": 90,
+        "name": "Tree Shaped Italian Payal",
+        "price": 380000,
+        
+        "image": "https://i.ibb.co/q52FtT6/Remove-background-project-4.png",
+        "description": "Tree Shaped Italian Payal with Black Poot 92.50 Purity | Gross Weight is 15.200 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 91,
+        "name": "Star Stone Italian Payal",
+        "price": 351000,
+        
+        "image": "https://i.ibb.co/qCBQFK2/Remove-background-project-6.png",
+        "description": "Star Stone Italian Payal with Italian Polish and 92.50 Purity | Gross Weight is 13.000 gm | 270Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 92,
+        "name": "Bracelet Cum Payal",
+        "price": 376600,
+        
+        "image": "https://i.ibb.co/4PLfwHj/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 13.450 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 93,
+        "name": "Chain Italian Payal",
+        "price": 363720,
+        
+        "image": "https://i.ibb.co/5chLTB4/Remove-background-project.png",
+        "description": "Chain Italian Payal with Italian Polish and 92.50 Purity | Gross Weight is 12.990 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 94,
+        "name": "Designer Ball Italian Payal",
+        "price": 375000,
+        
+        "image": "https://i.ibb.co/6BGGHQ3/Remove-background-project.png",
+        "description": "Italian Payal with Designer Ball and 92.50 Purity | Gross Weight is 15.000 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 95,
+        "name": "Bracelet Cum Payal",
+        "price": 638400,
+        
+        "image": "https://i.ibb.co/zZS4Sd8/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 22.800 gm | 280Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 96,
+        "name": "Bracelet Cum Payal",
+        "price": 347500,
+        
+        "image": "https://i.ibb.co/fQgx8FK/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 13.900 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 97,
+        "name": "Bracelet Cum Payal",
+        "price": 412500,
+        
+        "image": "https://i.ibb.co/LSf9c1D/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 16.500 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 98,
+        "name": "Bracelet Cum Payal",
+        "price": 549000,
+        
+        "image": "https://i.ibb.co/1bLm6xK/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 18.300 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "FeaturedItalian",
+        "featured": false
+    }
+    ,
+    {
+        "id": 99,
+        "name": "Bracelet Cum Payal",
+        "price": 606000,
+        
+        "image": "https://i.ibb.co/2FTJzT4/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 20.200 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 100,
+        "name": "Bracelet Cum Payal",
+        "price": 365000,
+        
+        "image": "https://i.ibb.co/bFfSMLX/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 14.600 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+    ,
+    {
+        "id": 101,
+        "name": "Bracelet Cum Payal",
+        "price": 550000,
+        
+        "image": "https://i.ibb.co/G0fhgPm/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 22.000 gm | 250Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": true
+    }
+    ,
+    {
+        "id": 102,
+        "name": "Bracelet Cum Payal",
+        "price": 609000,
+        
+        "image": "https://i.ibb.co/tsKDXxN/Remove-background-project.png",
+        "description": "Bracelet Cum Payal with Italian Polish and 92.50 Purity | Gross Weight is 20.300 gm | 300Rs. per gram.",
+        "category": "Payal",
+        "genCategory": "Female",
+        "femaleCategory": "ItalianPayal",
+        "italian": "",
+        "featured": false
+    }
+]
